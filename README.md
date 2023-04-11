@@ -17,6 +17,19 @@ It also provided insights into operation theory, including random numbers, the M
 - Hands-on learning of operation theory and optimization methods
 - Practical application of supply chain analysis and optimization
 
+## Repository Contents
+
+The practical side of the course focused on building simulations and operation theories for supply chain management use cases. It features an immersive introduction to simulation software and possibilities and includes a broad set of libraries and functions to monitor such simulation projects.
+
+- `application-examples`: Set of Simulation Examples
+- `post-office-process`: Post Office Schedule Flow and Management
+- `process-flow-models`: Building and Linking Data Models for Process Flows
+- `product-manufacturing`: Manufacturing Flow and Selection Analytics
+- `shared-medical-practice`: Hospital Office Registration and User Analyses
+- `simulation-training`: Comprehensive Model Building Session
+- `simulation-tutorial`: First Simulation Project
+- `university-dining`: Direction Optimization for Entity Flows
+
 ## Tools
 
 [Flexsim](https://www.flexsim.com/)
