@@ -21,14 +21,14 @@ It also provided insights into operation theory, including random numbers, the M
 
 The practical side of the course focused on building simulations and operation theories for supply chain management use cases. It features an immersive introduction to simulation software and possibilities and includes a broad set of libraries and functions to monitor such simulation projects.
 
-- `application-examples`: Set of Simulation Examples
-- `post-office-process`: Post Office Schedule Flow and Management
-- `process-flow-models`: Building and Linking Data Models for Process Flows
-- `product-manufacturing`: Manufacturing Flow and Selection Analytics
-- `shared-medical-practice`: Hospital Office Registration and User Analyses
-- `simulation-training`: Comprehensive Model Building Session
-- `simulation-tutorial`: First Simulation Project
-- `university-dining`: Direction Optimization for Entity Flows
+- [`application-examples`](/application-examples/): Set of Simulation Examples
+- [`post-office-process`](/post-office-process/): Post Office Schedule Flow and Management
+- [`process-flow-models`](/process-flow-models/): Building and Linking Data Models for Process Flows
+- [`product-manufacturing`](/product-manufacturing/): Manufacturing Flow and Selection Analytics
+- [`shared-medical-practice`](/shared-medical-practice/): Hospital Office Registration and User Analyses
+- [`simulation-training`](/simulation-training/): Comprehensive Model Building Session
+- [`simulation-tutorial`](/simulation-tutorial/): First Simulation Project
+- [`university-dining`](/university-dining/): Direction Optimization for Entity Flows
 
 ## Tools
 
