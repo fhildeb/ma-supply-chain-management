@@ -2,7 +2,7 @@
 
 MA Supply Chain Management Course from the University of Applied Science Mittweida that took place in 2021.
 
-> **_NOTE:_** The commentary and filenames might appear in German.
+> **_NOTE:_** The 3D model names within simulations appear in German
 
 ## Course Contents
 
