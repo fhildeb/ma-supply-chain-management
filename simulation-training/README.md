@@ -12,30 +12,32 @@ The simulation continuously analyzes machine statuses, transport utilities' occu
 
 ## Project Steps
 
-#### Building an Simple Package Delivery
+The project is divided into multiple interconnected stages. Each stage will build on the previous one, focusing on specific aspects of the production and logistics process to optimize efficiency and productivity.
+
+### Model Phase 1: Building an Simple Package Delivery
 
 ![Simulation Training 1](/img/simulation-training-1.png)
 
-#### Implementing a Package Separation Logic
+#### Model Phase 2: Implementing a Package Separation Logic
 
-![Simulation Training 1](/img/simulation-training-2.png)
+![Simulation Training 2](/img/simulation-training-2.png)
 
-#### Adding Package Coloring and Remedial Mechanism
+### Model Phase 3: Adding Package Coloring and Remedial Mechanism
 
-![Simulation Training 1](/img/simulation-training-3.png)
+![Simulation Training 3](/img/simulation-training-3.png)
 
-#### Creating the Warehouse Utility and Transportation
+### Model Phase 4.1: Creating the Warehouse Utility and Transportation
 
-![Simulation Training 1](/img/simulation-training-4.1.png)
+![Simulation Training 4.1](/img/simulation-training-4.1.png)
 
-#### Analysing Assambly and Staytime Metrics
+### Model Phase 4.2: Analysing Assambly and Staytime Metrics
 
-![Simulation Training 1](/img/simulation-training-4.2.png)
+![Simulation Training 4.2](/img/simulation-training-4.2.png)
 
-#### Introducing Dispatcher Package Management
+### Model Phase 5.1: Introducing Dispatcher Package Management
 
-![Simulation Training 1](/img/simulation-training-5.1.png)
+![Simulation Training 5.1](/img/simulation-training-5.1.png)
 
-#### Analyzing Processor and Operator States
+#### Model Phase 5.2: Analyzing Processor and Operator States
 
-![Simulation Training 1](/img/simulation-training-5.2.png)
+![Simulation Training 5.2](/img/simulation-training-5.2.png)
