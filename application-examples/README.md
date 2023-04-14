@@ -6,35 +6,47 @@ This project contains several self-built examples to represent process chains of
 
 A production model classifies incoming goods into different parts using various random methods and sends them to separate machines if they are not already working to capacity. The goods are temporarily stored until they are checked for quality by a control authority and sent to the goods issue department.
 
-![](/img/application-examples-1.png)
+![Machine Flow Basics](/img/application-examples-1.png)
 
 ### Warehouse Coordination
 
 This simulation is an extension of the basic machine flow model, which now does not automatically deliver products to the machines. Yet, it implements an information center that two operators can read. The operators have precise work paths which they can follow and transport the raw materials and finished products back and forth between the receiving area, the machine, the control station, and the warehouse. When transporting the goods from the final pickup point to the warehouse, another information center is used, which is read by forklift drivers. They efficiently transport a load of finished products to the warehouse.
 
-![](/img/application-examples-2.1.png)
-![](/img/application-examples-2.2.png)
+![Warehouse Coordination 1](/img/application-examples-2.1.png)
+
+The project includes evaluations regarding machine utilization, workers, and average waiting times between all the manufacturing processes.
+
+![Warehouse Coordination 2](/img/application-examples-2.2.png)
 
 ### Registration Office
 
 This simulation project recreates a registration office in which only a certain number of people are allowed to be in the waiting area and are then forwarded to different offices. There are three different office types in different quantities. Customers can either come through the office or are sent away again when the workload is high.
 
-![](/img/application-examples-3.1.png)
-![](/img/application-examples-3.2.png)
+![Registration Office 1](/img/application-examples-3.1.png)
+
+Different offices have different processing times. Customer satisfaction and average waiting time are measured throughout the process. If customers wait longer, satisfaction declines. Workloads and waiting time forecasts are also made.
+
+![Registration Office 2](/img/application-examples-3.2.png)
 
 ### Dining Hall Crowd Management
 
 This program recreates a cafeteria. People are divided into different tastes at the entrance. They then pick a suitable food and dessert outlet and pay for their goods at the checkout before walking into the canteen. Afterward, they must hand in their dishes in the queue and leave the building.
 
-![](/img/application-examples-4.1.png)
-![](/img/application-examples-4.2.png)
+![Dining Hall Crowd Management 1](/img/application-examples-4.1.png)
+
+In this example, we look at how long people must wait for food and how this relates to their food choice. In addition, we evaluate the workload of the counters and the staff. Data on the queue and the workload of the dining room are also collected.
+
+![Dining Hall Crowd Management 2](/img/application-examples-4.2.png)
 
 ### Item Push and Pull Flows
 
 Another example of pull and push flows applies the same concept used in dining crowd management. Here, goods are checked out differently, have to be stored for a specific time, will be pulled out of the warehouse, and can be sent to the output with a queue.
 
-![](/img/application-examples-5.1.png)
-![](/img/application-examples-5.2.png)
+![Item Push and Pull Flows 1](/img/application-examples-5.1.png)
+
+The packages are checked for their average waiting times and how many people are waiting for the classifications, how busy the conveyor belts, workers, and queues are, and how much is currently in the warehouse.
+
+![Item Push and Pull Flows 2](/img/application-examples-5.2.png)
 
 ### Doctors Office Dispatch
 
